@@ -5,19 +5,20 @@ Reina Valera 1960
 
 | **Antiguo Testamento** | **Nuevo Testamento** |
 |------------------------|----------------------|
-|  [Génesis - GN](AntiguoTestamento/Genesis/Genesis.md) | |
-
-
----
-La Santa Biblia Edición Reina Valera 1960 (RVR1960) es una traducción de la Biblia al español que fue publicada por primera vez en 1960. Es una revisión de la Biblia Reina Valera (RVR), que fue publicada por primera vez en 1602. La RVR1960 es la versión de la Biblia más popular en español, y es utilizada por millones de personas en todo el mundo.
-
-La RVR1960 es una traducción literal de los idiomas originales de la Biblia: hebreo, arameo y griego. Es una traducción fiel al texto original, pero también es fácil de leer y entender. El lenguaje de la RVR1960 es elegante y clásico, y ha sido elogiado por su belleza y claridad.
-
-La RVR1960 ha sido utilizada para predicar, enseñar y evangelizar a millones de personas. Es una herramienta importante para la difusión del evangelio en español.
-
-La RVR1960 está disponible en una variedad de formatos, incluyendo tapa dura, tapa blanda, y edición de bolsillo. También está disponible en audio y en línea.
-
-La RVR1960 es una Biblia confiable y fiel al texto original que es utilizada por millones de personas en todo el mundo.
+| [Génesis - GN](AntiguoTestamento/Genesis/Genesis.md) | |
 
 ---
+
+La Santa Biblia Edición Reina Valera 1960 (RVR1960) es una traducción de la Biblia al español que tiene sus raíces en textos antiguos, cuya redacción comenzó alrededor del 1400 a.C. y finalizó aproximadamente en el año 90 d.C. Más de 40 hombres, a lo largo de generaciones, contribuyeron a la composición de estos textos sagrados.
+
+Esta traducción es una revisión de la Biblia Reina Valera (RVR), la cual fue publicada por primera vez en 1602. La RVR1960 ha ganado una posición especial como la versión de la Biblia más popular en español y es utilizada por millones de personas en todo el mundo.
+
+## Orígenes y Contexto Histórico
+
+El proceso de redacción de los textos bíblicos abarca un extenso periodo y comprende diversas formas literarias, géneros y estilos. El Antiguo Testamento incluye obras como Génesis, Éxodo, y muchos otros libros que reflejan narrativas históricas, poesía, profecías y sabiduría. Por otro lado, el Nuevo Testamento presenta los evangelios, epístolas y el Apocalipsis, proporcionando relatos de la vida y enseñanzas de Jesucristo, así como la formación de las primeras comunidades cristianas.
+
+Este proyecto de transcripción busca llevar estos valiosos textos a un formato digital, permitiendo un acceso más amplio y facilitando la difusión de la palabra de Dios en la era digital.
+
+---
+
 Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE.md](LICENSE.md) para obtener más detalles.

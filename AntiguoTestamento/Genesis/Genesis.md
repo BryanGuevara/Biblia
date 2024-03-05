@@ -5,9 +5,11 @@
 ---
 
 **Capítulos** 
-| [Capítulo 1](Cap1.md) |
+||
 |-----------------------|
-| [**Capítulo 2**](Cap2.md) |
+| [Capítulo 1](Cap1.md) |
+| [Capítulo 2](Cap2.md) |
+| [Capítulo 3](Cap3.md) |
 
 ---
 
